@@ -10,7 +10,7 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 |(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
 |-----|--|--|--|
-| ?. Gabrielle| C. Zhirui | D. Kobé  | L. Floria  |
+| R. Gabriella| C. Zhirui | D. Kobé  | L. Floria  |
 
 
 ## Description synthétique du projet
