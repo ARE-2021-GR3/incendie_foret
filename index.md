@@ -1,4 +1,4 @@
-# Nom du projet
+# Propagation d'un incendie de forêt
 
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 
@@ -10,14 +10,14 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 |(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
 |-----|--|--|--|
-| P. Bismuth| J. Doe | A. Onyme  | N. Nescio  |
+| ?. Gabrielle| C. Zhirui | D. Kobé  | L. Floria  |
 
 
 ## Description synthétique du projet
 
-**Problématique :** 
+**Problématique :** Quelles sont les impacts de la météo sur la propagation d'un incendie de forêt ?
 
-**Hypothèse principale :**
+**Hypothèse principale :** La météo joue un role décisif sur l'extinction d'un incendie.
 
 **Hypothèses secondaires :** 
 
