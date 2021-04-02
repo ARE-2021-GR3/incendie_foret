@@ -15,7 +15,8 @@ Présentation du sujet : recherche de la problématique, comment représenter le
 Un peu de code et carnet de bord
 
 ### Semaine 5
-Discussion sur les différentes fonctions
+Discussion sur les différentes fonctions et paramètres. 
+
 Ecriture des fonctions:
   - generate_forêt
   - arbre_en_feu
