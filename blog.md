@@ -23,4 +23,5 @@ Ecriture des fonctions:
   - apparition_feu
   - voisinnage
   - feu_propage
+ 
 <a href="index.html"> Retour à la page principale </a>
