@@ -1,0 +1,15 @@
+Generer un monde au hasard en 2D avec 2 couleurs : foret et vide
+
+Mettre les paramètres : taille, voisinnage, pourcentage d'ignition
+
+Parametres meteo : Vent, pluie
+
+Les fonctions :
+- generer foret
+- peut bruler?
+- vitesse de feu
+- apparition feu au hasard
+- feu devient vide
+- generer vegetation
+
+le pourcentage d’ignition i, le taux de propagation du feu p, le pourcentage de chance qu’un feu s’éteigne e, et le taux d’apparition de la végétation v.
