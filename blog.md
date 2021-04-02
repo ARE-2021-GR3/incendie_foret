@@ -15,5 +15,12 @@ Présentation du sujet : recherche de la problématique, comment représenter le
 Un peu de code et carnet de bord
 
 ### Semaine 5
-
+Discussion sur les différentes fonctions
+Ecriture des fonctions:
+  - generate_forêt
+  - arbre_en_feu
+  - feu_au_hasard
+  - apparition_feu
+  - voisinnage
+  - feu_propage
 <a href="index.html"> Retour à la page principale </a>
