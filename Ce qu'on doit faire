@@ -4,12 +4,28 @@ Mettre les paramètres : taille, voisinnage, pourcentage d'ignition
 
 Parametres meteo : Vent, pluie
 
-Les fonctions :
-- generer foret
-- peut bruler?
+# Les fonctions :
+- generer_foret OK
+- arbre_en_feu OK
+- feu_au_hasard OK
+- apparition_feu OK
 - vitesse de feu
-- apparition feu au hasard
 - feu devient vide
 - generer vegetation
+
+# Recherche: 
+  - temps de propagation par rapport au temps d'extinction:
+      --> http://tpe-feux-de-foret.e-monsite.com/pages/comment-le-feu-se-propage-t-il-1.html
+      
+>>> L’incendie est un phénomène à cinétique (développement) ultra-rapide, il peut atteindre une vitesse de 5 km/h ! ( soit la vitesse d'un joggeur !)
+>>>  Dans ce cas l’incendie mettra moins de 5 minutes pour parcourir 400m.
+
+>>> En territoire méditerranéen, les causes naturelles (généralement la foudre) représentent 2% des départs de feu seulement.
+
+  -  Animation en python: les couleurs, animation cinétique? 
+  
+ # Suggestion:
+  -  Utiliser des entiers: 0: vide; 1: Nonfeu; 2,3,4...100: en feu après un certain temps --> 100->0: vide 
+  - 
 
 le pourcentage d’ignition i, le taux de propagation du feu p, le pourcentage de chance qu’un feu s’éteigne e, et le taux d’apparition de la végétation v.
