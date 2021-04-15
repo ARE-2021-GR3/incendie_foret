@@ -24,5 +24,11 @@ Ecriture des fonctions:
   - apparition_feu
   - voisinnage
   - feu_propage
+
+### Semaine 6
+Changement d'état: Utiliser plusieurs entiers pour simuler les phases de brûlures: début de feu --> cendre. 
+Recherches d'informations précises sur le temps (de propagation, jusqu'à extinction de feu...)
+Update du code, affichage du monde... 
+
  
 <a href="index.html"> Retour à la page principale </a>
