@@ -1,5 +1,5 @@
 On a fait :
-- Generer un monde au hasard en 2D avec 2 couleurs : foret et vide
+- Generer un monde au hasard en 2D : on a case vide, foret, feu
 - Mettre les paramètres : taille, voisinnage, pourcentage d'ignition
 # Les fonctions :
   - generate_foret
