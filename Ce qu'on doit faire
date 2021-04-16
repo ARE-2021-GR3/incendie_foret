@@ -25,6 +25,7 @@ Parametres meteo : Vent, pluie
   -  Animation en python: les couleurs, animation cinétique? 
   
   - le temps de combustion pour une branche est de 150s.
+      -->http://xuebao.jxau.edu.cn/_upload/article/f4/b3/d212e60e437892d13da68b3dd4e9/54dac497-57f7-4a8e-b38a-24107d50c70f.pdf
   
  # Suggestion:
   -  Utiliser des entiers: 0: vide; 1: Nonfeu; 2,3,4...100: en feu après un certain temps --> 100->0: vide 
