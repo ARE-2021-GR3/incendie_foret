@@ -1,17 +1,19 @@
-Generer un monde au hasard en 2D avec 2 couleurs : foret et vide
+On a fait :
+- Generer un monde au hasard en 2D avec 2 couleurs : foret et vide
+- Mettre les paramètres : taille, voisinnage, pourcentage d'ignition
+# Les fonctions :
+  - generate_foret
+  - arbre_en_feu
+  - feu_au_hasard
+  - apparition_feu
+  - voisinnage
+  - feu_propage
+  - tout_en_feu?
 
-Mettre les paramètres : taille, voisinnage, pourcentage d'ignition
-
+A faire :
 Parametres meteo : Vent, pluie
 
-# Les fonctions :
-- generer_foret OK
-- arbre_en_feu OK
-- feu_au_hasard OK
-- apparition_feu OK
-- vitesse de feu
-- feu devient vide
-- generer vegetation
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Recherche: 
   - temps de propagation par rapport au temps d'extinction:
