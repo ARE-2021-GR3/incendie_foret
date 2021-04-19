@@ -26,9 +26,14 @@ Ecriture des fonctions:
   - feu_propage
 
 ### Semaine 6
-Changement d'état: Utiliser plusieurs entiers pour simuler les phases de brûlures: début de feu --> cendre. 
+Changement d'état: Utiliser plusieurs entiers pour simuler les phases d'enflammation: début de feu --> cendre. 
 Recherches d'informations précises sur le temps (de propagation, jusqu'à extinction de feu...)
 Update du code, affichage du monde... 
+
+### Semaine 7
+Début de la conception du site avec WiX
+Travail sur l'animation du monde en temps réel sur Python
+Début de l'écriture des fonctions météorologiques
 
  
 <a href="index.html"> Retour à la page principale </a>
