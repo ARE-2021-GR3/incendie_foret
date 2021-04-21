@@ -31,7 +31,7 @@ Recherches d'informations précises sur le temps (de propagation, jusqu'à extin
 Update du code, affichage du monde... 
 
 ### Semaine 7
-  - Début de la conception du site avec WiX;
+  - Début de la conception du site avec WiX: https://gabirakt.wixsite.com/forestfire ;
   - Travail sur l'animation du monde en temps réel sur Python;
   - Début de l'écriture des fonctions météorologiques.
 
