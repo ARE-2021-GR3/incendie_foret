@@ -6,13 +6,15 @@
 Recherche du sujet
 
 ### Semaine 2
-On a trouvé le sujet et on a fgait des recherches
+Choix du sujet : la propagation d'un incendie de forêt.
+Recherche de la problématique, l'hypothèse, les objectifs, etc...
 
 ### Semaine 3
-Présentation du sujet : recherche de la problématique, comment représenter le code, etc...
+Présentation du sujet : choix de la problématique, de l'hypothèse, de la démarche expérimentale.
+Résumé des différentes fonctions du code.
 
 ### Semaine 4
-Un peu de code et carnet de bord
+Début du code et carnet de bord.
 
 ### Semaine 5
 Discussion sur les différentes fonctions et paramètres. 
