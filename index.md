@@ -52,3 +52,29 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
 
 Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
+# Wikipedia
+-ANON., 2021b. Incendie [en ligne]. S.l. : s.n. [Consulté le 26 mars 2021]. Disponible à l’adresse : https://fr.wikipedia.org/w/index.php?title=Incendie&oldid=180738877.
+
+-ANON., 2021a. Feu de forêt [en ligne]. S.l. : s.n. [Consulté le 25 mars 2021]. Disponible à l’adresse : https://fr.wikipedia.org/w/index.php?title=Feu_de_for%C3%AAt&oldid=180996850.
+
+#Catalogue de la bibliothèque de SU
+-HERNANDEZ, C., DROBINSKI, P., TURQUETY, S. et DUPUY, J.-L., 2015. Size of wildfires in the Euro-Mediterranean region: observations and theoretical analysis. In : Natural Hazards and Earth System Sciences. 23 juin 2015. Vol. 15, n° 6, pp. 1331‑1341. DOI 10.5194/nhess-15-1331-2015.
+
+-CARREGA, Pierre, 2005. Le risque d’incendie en forêt méditerranéenne semi-urbanisée : le feu de Cagnes-sur-Mer (31 août 2003). In : LEspace geographique. 2005. Vol. Tome 34, n° 4, pp. 305‑314.
+
+#Wiley Online Library
+-FAURIA, Marc Macias, MICHALETZ, Sean T. et JOHNSON, Edward A., 2011. Predicting climate change effects on wildfires requires linking processes across scales. In : WIREs Climate Change. 2011. Vol. 2, n° 1, pp. 99‑112. DOI https://doi.org/10.1002/wcc.92.
+
+#Science direct
+-SCHAFFHAUSER, Alice, PIMONT, François, CURT, Thomas, CASSAGNE, Nathalie, DUPUY, Jean-Luc et TATONI, Thierry, 2015. Effets de la récurrence des incendies sur le comportement du feu dans des suberaies (Quercus suber L.) et maquis méditerranéens sur les cinquante dernières années. In : Comptes Rendus Biologies. 1 décembre 2015. Vol. 338, n° 12, pp. 812‑824. DOI 10.1016/j.crvi.2015.10.001.
+
+-PORTERIE, Bernard, ZEKRI, Nouredine, CLERC, Jean-Pierre et LORAUD, Jean-Claude, 2005. Influence des brandons sur la propagation d’un feu de forêt. In : Comptes Rendus Physique. 1 décembre 2005. Vol. 6, n° 10, pp. 1153‑1160. DOI 10.1016/j.crhy.2005.11.013.
+
+-CARDIL, Adrián, RODRIGUES, Marcos, RAMIREZ, Joaquin, DE-MIGUEL, Sergio, SILVA, Carlos A., MARIANI, Michela et ASCOLI, Davide, 2021. Coupled effects of climate teleconnections on drought, Santa Ana winds and wildfires in southern California. In : Science of The Total Environment. 15 avril 2021. Vol. 765, pp. 142788. DOI 10.1016/j.scitotenv.2020.142788.
+
+#IntechOpen
+-BUKHORI, Saiful, 2017. Forest Fire Model. In : Forest Fire [en ligne]. 27 décembre 2017. [Consulté le 26 mars 2021]. DOI 10.5772/intechopen.72591. Disponible à l’adresse : https://www.intechopen.com/books/forest-fire/forest-fire-model.
+
+
+
+
