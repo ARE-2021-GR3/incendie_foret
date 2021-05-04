@@ -41,7 +41,8 @@ The objective is to verify that weather plays an important role in the spread of
 
 ## Présentation structurée des résultats
 
-Pour la modélisation, on a utilisé la bibliothèque matplotlib pour pouvoir animer la forêt à partir du code. Aussi, on a créer quelques graphiques pour pouvoir comparer l'ampleur du feu en fonction du temps et des conidtions météorologiques. Tous les détails se trouvent sur le blog.
+Pour la modélisation, on a utilisé la bibliothèque matplotlib pour pouvoir animer la forêt à partir du code. Aussi, on a créer quelques graphiques pour pouvoir comparer l'ampleur du feu en fonction du temps et des conidtions météorologiques. 
+Tous les détails se trouvent sur le blog.
 
 ## Lien vers page de blog : <a href="https://gabirakt.wixsite.com/forestfire"> C'est ici ! </a>
 
