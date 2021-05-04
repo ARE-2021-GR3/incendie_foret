@@ -35,23 +35,17 @@ The objective is to verify that weather plays an important role in the spread of
 
 **Hypothèse principale :** La météo joue un role décisif sur l'extinction d'un incendie.
 
-**Hypothèses secondaires :** 
-
 **Objectifs :** Étudier la vitesse de propagation d’un incendie de forêt en fonction des conditions météorologiques.
 
 **Critère(s) d'évaluation :** Conditions météorologiques, taux d’apparition d’un incendie, vitesse de propagation de l’incendie, taille de la forêt, croissance de la végétation.
 
 ## Présentation structurée des résultats
 
-Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
+Pour la modélisation, on a utilisé la bibliothèque matplotlib pour pouvoir animer la forêt à partir du code. Aussi, on a créer quelques graphiques pour pouvoir comparer l'ampleur du feu en fonction du temps et des conidtions météorologiques. Tous les détails se trouvent sur le blog.
 
 ## Lien vers page de blog : <a href="https://gabirakt.wixsite.com/forestfire"> C'est ici ! </a>
 
 ## Bibliographie :
-
-**Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
-
-Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
 
 **Wikipedia**
 
