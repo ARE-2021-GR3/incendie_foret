@@ -38,7 +38,7 @@ def generate_foret(n,m) :
   return A
 
 
-# Mets en feu l'arbre qui est aux coordonnées (x,y)
+# Met en feu l'arbre qui est aux coordonnées (x,y)
 def arbre_en_feu(x,y,monde) :
   if (monde [y,x] == 0) : 
     monde [y,x] = 1
