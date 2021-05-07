@@ -214,7 +214,7 @@ def tous_les_graph() :
   vent_ouest = 0
   pluie = 0
 
-tous_les_graph()
+#tous_les_graph()
 
 
 # Animation de l'incendie avec la météo
