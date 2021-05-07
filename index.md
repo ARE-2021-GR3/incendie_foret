@@ -31,7 +31,7 @@ The objective is to verify that weather plays an important role in the spread of
 
 ## Description synthétique du projet
 
-**Problématique :** Quelles sont les impacts de la météo sur la propagation d'incendie de forêt ?
+**Problématique :** Quels sont les impacts de la météo sur la propagation d'incendie de forêt ?
 
 **Hypothèse principale :** La météo joue un role décisif sur l'extinction d'un incendie.
 
